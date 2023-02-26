@@ -1,0 +1,54 @@
+.color-red {
+    color: red;
+}
+
+#color-green {
+    color: green;
+}
+
+#div-green {
+    width: 200px;
+    height: 100px;
+    background-color: green;
+}
+
+#div-img {
+    background-image: url(ảnh\ 1.jpg);
+    width: 100%;
+    height: 200px;
+}
+
+.ND1 {
+    width: 99.5%;
+    height: 80px;
+    background-color: green;
+    text-align: center;
+    border: 4px solid black;
+}
+
+#vb1 {
+    line-height: 48px;
+    color: white;
+}
+
+.ND2 {
+    width: 98.7%;
+    height: 80px;
+    background-color: red;
+    border: 10px dashed #CCCCCC;
+    background-clip: padding-box;
+}
+
+#vb2 {
+    line-height: 48px;
+    float: right;
+    padding-right: 30px;
+    color: white;
+}
+
+#vb3 {
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+}
